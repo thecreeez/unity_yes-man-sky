@@ -667,3 +667,495 @@ Received Import Request.
 Start importing Assets/Models/SpaceShips using Guid(5cca72e5c7eed3c49918a87978372a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c569ebe47464b75d76da546aa34a5ad5') in 0.017509 seconds
   Import took 0.022235 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002013 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.275 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.2 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1595.
+Total: 5.151300 ms (FindLiveObjects: 0.226800 ms CreateObjectMapping: 0.067000 ms MarkObjects: 2.965300 ms  DeleteObjects: 1.889500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 935.649213 seconds.
+  path: Assets/BrokenVector/LowPolyShaders
+  artifactKey: Guid(31d96411e2dcba1419e6add13a3618c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders using Guid(31d96411e2dcba1419e6add13a3618c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ac6a410648008a2b214cc01607868e') in 0.025670 seconds
+  Import took 0.031421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.263447 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Shaders
+  artifactKey: Guid(2231f28c22eb5ba49bf2570a9ac721e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Shaders using Guid(2231f28c22eb5ba49bf2570a9ac721e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1e7b529435d4f13f3811bc90ef804d') in 0.016743 seconds
+  Import took 0.020868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.459567 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example
+  artifactKey: Guid(5d0b2ee68f437bc49bb9452909b35343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example using Guid(5d0b2ee68f437bc49bb9452909b35343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4a77f94303ea434f9fa0b758451ef61') in 0.016508 seconds
+  Import took 0.023799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002309 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example
+  artifactKey: Guid(5d0b2ee68f437bc49bb9452909b35343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example using Guid(5d0b2ee68f437bc49bb9452909b35343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4a77f94303ea434f9fa0b758451ef61') in 0.006926 seconds
+  Import took 0.012680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.989518 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/ExampleSettings.lighting
+  artifactKey: Guid(de583c3cebeb5e545901b096dc7dc216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/ExampleSettings.lighting using Guid(de583c3cebeb5e545901b096dc7dc216) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'c9fc9d1305f72dac042239694f769f26') in 0.038854 seconds
+  Import took 0.043796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010462 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/ExampleSettings.lighting
+  artifactKey: Guid(de583c3cebeb5e545901b096dc7dc216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/ExampleSettings.lighting using Guid(de583c3cebeb5e545901b096dc7dc216) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'c9fc9d1305f72dac042239694f769f26') in 0.007537 seconds
+  Import took 0.012030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.012142 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/Example.unity
+  artifactKey: Guid(69a09641ad241c246937e6f40b835779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/Example.unity using Guid(69a09641ad241c246937e6f40b835779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '299b46a38b5632495bed1575a948d522') in 0.017623 seconds
+  Import took 0.021313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.925763 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/Materials
+  artifactKey: Guid(1a94fcd0d6698064caa090e7f8d3d624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/Materials using Guid(1a94fcd0d6698064caa090e7f8d3d624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b5d77741efcbb9a9d497c9e0cb474d') in 0.017707 seconds
+  Import took 0.022478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002318 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/Materials
+  artifactKey: Guid(1a94fcd0d6698064caa090e7f8d3d624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/Materials using Guid(1a94fcd0d6698064caa090e7f8d3d624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b5d77741efcbb9a9d497c9e0cb474d') in 0.006792 seconds
+  Import took 0.012051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.167024 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/Materials/PBR_Color.mat
+  artifactKey: Guid(bf65b7dabd6e68341ada51a6afe98fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/Materials/PBR_Color.mat using Guid(bf65b7dabd6e68341ada51a6afe98fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b85260f6b3fe76725676583156c6464') in 0.194809 seconds
+  Import took 0.200061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/Materials/Unlit.mat
+  artifactKey: Guid(0e7cfe69d159dce4f95ed314b7a427c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/Materials/Unlit.mat using Guid(0e7cfe69d159dce4f95ed314b7a427c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a406f3e95295328148200529827aff24') in 0.052079 seconds
+  Import took 0.057506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/Materials/PBR_Gold.mat
+  artifactKey: Guid(8db6b7dbf0ad03f4a82815fd0216c08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/Materials/PBR_Gold.mat using Guid(8db6b7dbf0ad03f4a82815fd0216c08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6ff901a1e4c92fc80b2d37da319363') in 0.048309 seconds
+  Import took 0.056134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/Materials/PBR_Metal.mat
+  artifactKey: Guid(ca9859d967665754cac6c07ae9250132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/Materials/PBR_Metal.mat using Guid(ca9859d967665754cac6c07ae9250132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a99142d93698819e5527d5477e29b725') in 0.042672 seconds
+  Import took 0.048909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.613103 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/Models
+  artifactKey: Guid(634aa295395a8bc439b83eadaeb1c955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/Models using Guid(634aa295395a8bc439b83eadaeb1c955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '290e2a7c31300de474b7fcf4058278cf') in 0.013037 seconds
+  Import took 0.021378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003053 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/Models
+  artifactKey: Guid(634aa295395a8bc439b83eadaeb1c955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/Models using Guid(634aa295395a8bc439b83eadaeb1c955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '290e2a7c31300de474b7fcf4058278cf') in 0.005381 seconds
+  Import took 0.010004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062988 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/Models/Axe_1.dae
+  artifactKey: Guid(54fbce58060ea7143a49de28a698b266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/Models/Axe_1.dae using Guid(54fbce58060ea7143a49de28a698b266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc78f82fd908d054a92011171d4d1f4') in 0.135994 seconds
+  Import took 0.140651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.698233 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Example/Textures/Colorscheme_Red.png
+  artifactKey: Guid(b2ff0375321cc884c88608315d0562bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Example/Textures/Colorscheme_Red.png using Guid(b2ff0375321cc884c88608315d0562bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aedd0f865a59427824d17c58d6cfa42') in 0.054577 seconds
+  Import took 0.059616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.524179 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Shaders/LowPolyPBRShader.shader
+  artifactKey: Guid(a97e290cd0cec1a4cb176e474e69c1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Shaders/LowPolyPBRShader.shader using Guid(a97e290cd0cec1a4cb176e474e69c1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90203a076b6c276655931b0647424c6b') in 0.020133 seconds
+  Import took 0.024228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041640 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Shaders/LowPolyPBRShader.shader
+  artifactKey: Guid(a97e290cd0cec1a4cb176e474e69c1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Shaders/LowPolyPBRShader.shader using Guid(a97e290cd0cec1a4cb176e474e69c1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90203a076b6c276655931b0647424c6b') in 0.010370 seconds
+  Import took 0.016437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.299538 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Shaders/LowPolyUnlitShader.shader
+  artifactKey: Guid(098d4ffc7d7b82d4db28426a03a46477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Shaders/LowPolyUnlitShader.shader using Guid(098d4ffc7d7b82d4db28426a03a46477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097104397a53a6db54ab4af92374cd4c') in 0.035276 seconds
+  Import took 0.043173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001791 seconds.
+  path: Assets/BrokenVector/LowPolyShaders/Shaders/LowPolyUnlitShader.shader
+  artifactKey: Guid(098d4ffc7d7b82d4db28426a03a46477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyShaders/Shaders/LowPolyUnlitShader.shader using Guid(098d4ffc7d7b82d4db28426a03a46477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097104397a53a6db54ab4af92374cd4c') in 0.008585 seconds
+  Import took 0.016000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.966980 seconds.
+  path: Assets/StarNestSkybox/StarNestSkyboxMask.shader
+  artifactKey: Guid(8df41df81f279ba48a0546fb371cfd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/StarNestSkyboxMask.shader using Guid(8df41df81f279ba48a0546fb371cfd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f240b1490cd1be5111054758855358') in 0.016692 seconds
+  Import took 0.023188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.964398 seconds.
+  path: Assets/StarNestSkybox/StarNest.shader
+  artifactKey: Guid(6c6c06ff6a8d9a544806d8937d2ee96d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/StarNest.shader using Guid(6c6c06ff6a8d9a544806d8937d2ee96d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d14829dd88e5b6f414f39ff38a2e823') in 0.017484 seconds
+  Import took 0.021871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.768870 seconds.
+  path: Assets/StarNestSkybox/Example.unity
+  artifactKey: Guid(8d843c82b6dda8e468b6803edb3dd951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Example.unity using Guid(8d843c82b6dda8e468b6803edb3dd951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb4dd533e7549a48e170697c1eaba418') in 0.006781 seconds
+  Import took 0.011586 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002500 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.545 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.3 MB.
+System memory in use after: 62.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1602.
+Total: 3.056900 ms (FindLiveObjects: 0.236600 ms CreateObjectMapping: 0.061700 ms MarkObjects: 2.364800 ms  DeleteObjects: 0.391900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.059818 seconds.
+  path: Assets/StarNestSkybox/Example2D.unity
+  artifactKey: Guid(5aafd0d7f29edd945b241f3a13b742a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Example2D.unity using Guid(5aafd0d7f29edd945b241f3a13b742a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be0ffd6b8a00630e96b7798fbab9379a') in 0.035674 seconds
+  Import took 0.041007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.247042 seconds.
+  path: Assets/StarNestSkybox/ExampleSettings.lighting
+  artifactKey: Guid(9f64e5f0d7949cd408aa34ab64411ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/ExampleSettings.lighting using Guid(9f64e5f0d7949cd408aa34ab64411ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '6a75941f70a649e5acb09f8c46031024') in 0.006377 seconds
+  Import took 0.010911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037621 seconds.
+  path: Assets/StarNestSkybox/ExampleSettings.lighting
+  artifactKey: Guid(9f64e5f0d7949cd408aa34ab64411ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/ExampleSettings.lighting using Guid(9f64e5f0d7949cd408aa34ab64411ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '6a75941f70a649e5acb09f8c46031024') in 0.007370 seconds
+  Import took 0.010878 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002070 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.432 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1103 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1604.
+Total: 3.282800 ms (FindLiveObjects: 0.297500 ms CreateObjectMapping: 0.068100 ms MarkObjects: 2.504400 ms  DeleteObjects: 0.410300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.872167 seconds.
+  path: Assets/Prefabs/Main Camera.prefab
+  artifactKey: Guid(b5b3f6716f4a9d3448dec864aedd6d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Main Camera.prefab using Guid(b5b3f6716f4a9d3448dec864aedd6d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf8b1868b9562b1a5ef254371e2f3a6') in 0.125859 seconds
+  Import took 0.131350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 533.653364 seconds.
+  path: Assets/SpaceFighter/FighterPrefabs
+  artifactKey: Guid(db5b65256b57cd842b6acec22075c677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/FighterPrefabs using Guid(db5b65256b57cd842b6acec22075c677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68da2e1c605034279fa37c02753dc12d') in 0.017387 seconds
+  Import took 0.021854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052809 seconds.
+  path: Assets/SpaceFighter/FighterPrefabs/FighterLowPrefab.prefab
+  artifactKey: Guid(a05129996ff473e41b080df163292620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/FighterPrefabs/FighterLowPrefab.prefab using Guid(a05129996ff473e41b080df163292620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e91d15ceaa20eb224ec5a170ab619b') in 0.018242 seconds
+  Import took 0.022532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/SpaceFighter/FighterPrefabs/FighterMediumPrefab.prefab
+  artifactKey: Guid(2121120e731eda841a6c7793e7337aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/FighterPrefabs/FighterMediumPrefab.prefab using Guid(2121120e731eda841a6c7793e7337aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd0e3697cde12779335e4c774ce8749') in 0.018550 seconds
+  Import took 0.026162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.477404 seconds.
+  path: Assets/SpaceFighter/Art Assets/CannonLow_FBX.fbx
+  artifactKey: Guid(873f12d87be8630438b877f50e96d434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/CannonLow_FBX.fbx using Guid(873f12d87be8630438b877f50e96d434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb2347eb19efa40fd7664a246497f196') in 0.389520 seconds
+  Import took 0.394120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/SpaceFighter/Art Assets/CannonMedium_FBX.fbx
+  artifactKey: Guid(27ae1315ca7386c4380ea66773476fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/CannonMedium_FBX.fbx using Guid(27ae1315ca7386c4380ea66773476fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc57a0b49061d48eb199cc49d6ef3a00') in 0.075879 seconds
+  Import took 0.080668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000573 seconds.
+  path: Assets/SpaceFighter/Art Assets/FighterLow_FBX.fbx
+  artifactKey: Guid(6f679f9f2b4323f4eb8c1e642c986c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/FighterLow_FBX.fbx using Guid(6f679f9f2b4323f4eb8c1e642c986c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98946c29777ca0dab1dc87cbc73a7aab') in 0.066499 seconds
+  Import took 0.072096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/SpaceFighter/Art Assets/FighterMedium_FBX.fbx
+  artifactKey: Guid(d5f02142fd614bc429559c3d9c05482c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/FighterMedium_FBX.fbx using Guid(d5f02142fd614bc429559c3d9c05482c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad5b83c7ee8e15cb4364a5da891817f') in 0.285951 seconds
+  Import took 0.289831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/SpaceFighter/Art Assets/EngineTrails_FBX.fbx
+  artifactKey: Guid(58752080b7a2b014b984236fa50b1a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/EngineTrails_FBX.fbx using Guid(58752080b7a2b014b984236fa50b1a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc32b3373fe8812614147a17d26485e5') in 0.118106 seconds
+  Import took 0.121639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.988977 seconds.
+  path: Assets/SpaceFighter/Art Assets/Textures
+  artifactKey: Guid(33981b368020b4844b1bc44649cf5d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/Textures using Guid(33981b368020b4844b1bc44649cf5d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e41e7103eeabb90725d6eac9df2ac21') in 0.018828 seconds
+  Import took 0.023796 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001558 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1103 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 2.521400 ms (FindLiveObjects: 0.237800 ms CreateObjectMapping: 0.061500 ms MarkObjects: 2.083200 ms  DeleteObjects: 0.136900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.424416 seconds.
+  path: Assets/SpaceFighter/FighterPrefabs/FighterMediumPrefab.prefab
+  artifactKey: Guid(2121120e731eda841a6c7793e7337aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/FighterPrefabs/FighterMediumPrefab.prefab using Guid(2121120e731eda841a6c7793e7337aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0652de020100a5b6c9cc32bc53190209') in 0.151096 seconds
+  Import took 0.155050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004877 seconds.
+  path: Assets/SpaceFighter/FighterPrefabs/FighterMediumPrefab.prefab
+  artifactKey: Guid(2121120e731eda841a6c7793e7337aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/FighterPrefabs/FighterMediumPrefab.prefab using Guid(2121120e731eda841a6c7793e7337aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0652de020100a5b6c9cc32bc53190209') in 0.030569 seconds
+  Import took 0.035187 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006173 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.242 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.4 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1614.
+Total: 3.682900 ms (FindLiveObjects: 0.446700 ms CreateObjectMapping: 0.119200 ms MarkObjects: 2.898000 ms  DeleteObjects: 0.216700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.061 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 4.031900 ms (FindLiveObjects: 0.351400 ms CreateObjectMapping: 0.254100 ms MarkObjects: 3.244800 ms  DeleteObjects: 0.178800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1333.017182 seconds.
+  path: Assets/Prefabs/Main Camera.prefab
+  artifactKey: Guid(b5b3f6716f4a9d3448dec864aedd6d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Main Camera.prefab using Guid(b5b3f6716f4a9d3448dec864aedd6d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5233ab0fb4cdb4a67114deb60594226f') in 0.373530 seconds
+  Import took 0.408552 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001394 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.919 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1619.
+Total: 3.136500 ms (FindLiveObjects: 0.318800 ms CreateObjectMapping: 0.076700 ms MarkObjects: 2.589000 ms  DeleteObjects: 0.149500 ms)
+
