@@ -94,6 +94,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6160e2b84679c6643a153406831a0074, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fc3b0d128c6d54c4597ca840d4803ac5, type: 2}
     - target: {fileID: 919132149155446097, guid: 6160e2b84679c6643a153406831a0074, type: 3}
       propertyPath: m_Name
       value: Planet4

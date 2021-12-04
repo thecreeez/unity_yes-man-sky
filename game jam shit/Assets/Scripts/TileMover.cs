@@ -8,7 +8,7 @@ public class TileMover : MonoBehaviour
 
     public List<GameObject> tiles = new List<GameObject>();
     public List<GameObject> toRemove = new List<GameObject>();
-    public int speed;
+    private float speed = 0f;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,9 +19,11 @@ public class TileMover : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        speed = GameManager.instance.getGameSpeed();
+
         foreach (GameObject tile in instance.tiles)
         {
-            tile.transform.position = new Vector3(tile.transform.position.x, tile.transform.position.y, tile.transform.position.z - (speed * Time.deltaTime));
+            tile.transform.position = new Vector3(tile.transform.position.x, tile.transform.position.y, tile.transform.position.z - ((20 * speed) * Time.deltaTime));
 
             if (tile.transform.position.z < -20)
             {
