@@ -37,8 +37,8 @@ Material:
     - _Volsteps: 28.3
     - _Zoom: 3663.4
     m_Colors:
-    - _Center: {r: 1.27, g: 1.61, b: 0.88, a: 0.51}
+    - _Center: {r: 1.27, g: 1.61, b: 0.88, a: 0.5}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Rotation: {r: 51, g: 15, b: 11, a: 1}
-    - _Scroll: {r: -0.48, g: 3.72, b: -1.97, a: -0.48}
+    - _Scroll: {r: -0.48, g: 3.72, b: -1.97, a: 0.05}
   m_BuildTextureStacks: []
