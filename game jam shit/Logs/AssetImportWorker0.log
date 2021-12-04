@@ -1879,3 +1879,11 @@ Received Import Request.
 Start importing Assets/StarNestSkybox/StarNestSkybox_HSV.shader using Guid(27dad6e6a6c1988439ea192ad22a1a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e29f762ab6786b86c300e98d3e4b5872') in 0.011990 seconds
   Import took 0.017519 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 82.207593 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8641d8c5ef44b38bada29220a174a5') in 0.023832 seconds
+  Import took 0.028750 seconds .
+
