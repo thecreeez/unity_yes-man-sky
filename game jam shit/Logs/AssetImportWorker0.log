@@ -1159,3 +1159,723 @@ System memory in use after: 62.5 MB.
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1619.
 Total: 3.136500 ms (FindLiveObjects: 0.318800 ms CreateObjectMapping: 0.076700 ms MarkObjects: 2.589000 ms  DeleteObjects: 0.149500 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001359 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.528 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1621.
+Total: 2.774700 ms (FindLiveObjects: 0.321300 ms CreateObjectMapping: 0.073300 ms MarkObjects: 2.192100 ms  DeleteObjects: 0.185600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 320.753465 seconds.
+  path: Assets/Prefabs/tileMap.prefab
+  artifactKey: Guid(4b483c5dd66bef54199da371eaa6229b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tileMap.prefab using Guid(4b483c5dd66bef54199da371eaa6229b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d6bc855d86df1393d6f0ba6414194e') in 0.123210 seconds
+  Import took 0.126958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Prefabs/tileMap1.prefab
+  artifactKey: Guid(3586728d54fd5ed4282c74443b5428c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tileMap1.prefab using Guid(3586728d54fd5ed4282c74443b5428c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9afea09a3e85f6448d8aa6eb35c5a618') in 0.044026 seconds
+  Import took 0.050928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Prefabs/tileMap2.prefab
+  artifactKey: Guid(5bb9395c03bd1b24bae05068f740faba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tileMap2.prefab using Guid(5bb9395c03bd1b24bae05068f740faba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2423cc3e5cd65e14e15880da5cf98ef') in 0.046642 seconds
+  Import took 0.058182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Prefabs/tileMap1.prefab
+  artifactKey: Guid(3586728d54fd5ed4282c74443b5428c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tileMap1.prefab using Guid(3586728d54fd5ed4282c74443b5428c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9afea09a3e85f6448d8aa6eb35c5a618') in 0.024726 seconds
+  Import took 0.032011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Prefabs/tileMap2.prefab
+  artifactKey: Guid(5bb9395c03bd1b24bae05068f740faba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tileMap2.prefab using Guid(5bb9395c03bd1b24bae05068f740faba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2423cc3e5cd65e14e15880da5cf98ef') in 0.023261 seconds
+  Import took 0.029085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 456.894701 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(53ef79f9ee1522d46b272c14ad10ee63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(53ef79f9ee1522d46b272c14ad10ee63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d24203b7ce4a79613bf87264803cc3') in 0.018692 seconds
+  Import took 0.024645 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001380 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.478 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1625.
+Total: 3.216900 ms (FindLiveObjects: 0.328400 ms CreateObjectMapping: 0.100400 ms MarkObjects: 2.641200 ms  DeleteObjects: 0.144300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.711502 seconds.
+  path: Assets/Materials/New Material 3.mat
+  artifactKey: Guid(d95e41cae5986014db23f489b688bc8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 3.mat using Guid(d95e41cae5986014db23f489b688bc8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83081736c5c5862e1e9ed1b6b36b48f5') in 0.114701 seconds
+  Import took 0.119003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.264648 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Normal.mat
+  artifactKey: Guid(e689658b33fb99345b0d6eae58e9163a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Normal.mat using Guid(e689658b33fb99345b0d6eae58e9163a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb526fc59fc86cea2072d5ccff0fd4d7') in 0.073908 seconds
+  Import took 0.080617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Odd.mat
+  artifactKey: Guid(cc6d11995a68a7b478c1a2807eb066dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Odd.mat using Guid(cc6d11995a68a7b478c1a2807eb066dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab1391294e9d88ad08ffa157785c82b') in 0.069189 seconds
+  Import took 0.075628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000576 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Normal_Hueshift.mat
+  artifactKey: Guid(433b2eaf172d03641b9dc72934a31efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Normal_Hueshift.mat using Guid(433b2eaf172d03641b9dc72934a31efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '858432b0c694e994222300f4a73ce23b') in 0.050775 seconds
+  Import took 0.055186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Purple2.mat
+  artifactKey: Guid(ece387863b4adb943b1041968595efba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Purple2.mat using Guid(ece387863b4adb943b1041968595efba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96515142af46e0c3d7893af0302344f4') in 0.054609 seconds
+  Import took 0.060461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Normal_GreyClamp.mat
+  artifactKey: Guid(c0dab155e43d56540934277edfc76899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Normal_GreyClamp.mat using Guid(c0dab155e43d56540934277edfc76899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9899234b4e85bc06e41fb6885c643e20') in 0.292783 seconds
+  Import took 0.298085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Purple.mat
+  artifactKey: Guid(df92675f69745be4e8eb3e81beafe926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Purple.mat using Guid(df92675f69745be4e8eb3e81beafe926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91438ef0d6afb0005606ebdb7185f1f') in 0.040907 seconds
+  Import took 0.046226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Rotating.mat
+  artifactKey: Guid(b4e67a9cff2b8144d9ca7964fe5f8633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Rotating.mat using Guid(b4e67a9cff2b8144d9ca7964fe5f8633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a040b73768dfe32cfaa0e495ba68a51') in 0.047100 seconds
+  Import took 0.053341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Purple.mat
+  artifactKey: Guid(df92675f69745be4e8eb3e81beafe926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Purple.mat using Guid(df92675f69745be4e8eb3e81beafe926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91438ef0d6afb0005606ebdb7185f1f') in 0.048940 seconds
+  Import took 0.054115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Normal_GreyBlend.mat
+  artifactKey: Guid(42554c560692bab44948be1eca99837f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Normal_GreyBlend.mat using Guid(42554c560692bab44948be1eca99837f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f95c23f2b41aba5fa961108b1d194efc') in 0.043033 seconds
+  Import took 0.048462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Yellow.mat
+  artifactKey: Guid(4583445bbddd2ae438193f4dcf130c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Yellow.mat using Guid(4583445bbddd2ae438193f4dcf130c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e4e85082989240c2f938e6b0f1ccd5') in 0.042659 seconds
+  Import took 0.047767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.183194 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/HotSuns.mat
+  artifactKey: Guid(9d5552e423c7dbe42ba9aea2a0ae7966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/HotSuns.mat using Guid(9d5552e423c7dbe42ba9aea2a0ae7966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099fa9aeca840102546b8f423c73c0a8') in 0.061975 seconds
+  Import took 0.068464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016848 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/HotSuns.mat
+  artifactKey: Guid(9d5552e423c7dbe42ba9aea2a0ae7966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/HotSuns.mat using Guid(9d5552e423c7dbe42ba9aea2a0ae7966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099fa9aeca840102546b8f423c73c0a8') in 0.040178 seconds
+  Import took 0.046345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.431487 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Galaxies.mat
+  artifactKey: Guid(d11fb900c39ce024f8392906d7edbd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Galaxies.mat using Guid(d11fb900c39ce024f8392906d7edbd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f44df91016cb6146e382542e9fc09e8') in 0.035582 seconds
+  Import took 0.039206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Green2_Hueshift.mat
+  artifactKey: Guid(a3eac8cc558a4734b8f3b73cfaf5abc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Green2_Hueshift.mat using Guid(a3eac8cc558a4734b8f3b73cfaf5abc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cee1f02256c0a7be0317cd548f5294c') in 0.038053 seconds
+  Import took 0.043896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/DarkWorld2_Mask.mat
+  artifactKey: Guid(a1b7c526542073b4da029e8454cae2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/DarkWorld2_Mask.mat using Guid(a1b7c526542073b4da029e8454cae2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4d4a8f8d207cda4dc1bbf4d178f0a0') in 0.057937 seconds
+  Import took 0.063825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/DarkWorld3.mat
+  artifactKey: Guid(386f53d4045de144a922f704decdb45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/DarkWorld3.mat using Guid(386f53d4045de144a922f704decdb45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce1818c6e01d459dcb72d138b658d59') in 0.038845 seconds
+  Import took 0.043052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/DarkWorld1.mat
+  artifactKey: Guid(19be02dfca9a20e489b832251d3b89cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/DarkWorld1.mat using Guid(19be02dfca9a20e489b832251d3b89cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9c8d849854619a71a3d21e13e1bfc34') in 0.044795 seconds
+  Import took 0.050630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/SpaceFighter/Art Assets/Materials/FighterLow.mat
+  artifactKey: Guid(b65b0e1de3c01d646b5a7739befebcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/Materials/FighterLow.mat using Guid(b65b0e1de3c01d646b5a7739befebcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f78f2564b2a14902186ceb860ab5ee') in 0.051794 seconds
+  Import took 0.057151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000575 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Green1.mat
+  artifactKey: Guid(b81ae619e1c6ba24e802f287d03fba28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Green1.mat using Guid(b81ae619e1c6ba24e802f287d03fba28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81645c0d6ae094ecc605a1a521d12e49') in 0.041834 seconds
+  Import took 0.046656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/DarkWorld2.mat
+  artifactKey: Guid(bbfa4d08fe468b340a24dfc5bd38aa8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/DarkWorld2.mat using Guid(bbfa4d08fe468b340a24dfc5bd38aa8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba7d08d5cac2411da5ff84bb9696c2d') in 0.042253 seconds
+  Import took 0.046719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000706 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Green2.mat
+  artifactKey: Guid(13df1aee700cead4daabec45f1e1c163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Green2.mat using Guid(13df1aee700cead4daabec45f1e1c163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '153946ca65740de3238970176955d747') in 0.037076 seconds
+  Import took 0.041288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/SpaceFighter/Art Assets/Materials/FighterMedium.mat
+  artifactKey: Guid(1882b2a902d151b48b4b2dabe3ec43e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/Materials/FighterMedium.mat using Guid(1882b2a902d151b48b4b2dabe3ec43e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd45c09dba2ac85359c230e47acb34261') in 0.060925 seconds
+  Import took 0.065590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/DarkWorld2_Hueshift.mat
+  artifactKey: Guid(049c75f06dbc09145afac2f5aa707459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/DarkWorld2_Hueshift.mat using Guid(049c75f06dbc09145afac2f5aa707459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '939e428f6e6db81cf3bbc2518ea2f7c6') in 0.043259 seconds
+  Import took 0.048350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000723 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Green2_Mask.mat
+  artifactKey: Guid(505cbec731cb591439cd5137b003349a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Green2_Mask.mat using Guid(505cbec731cb591439cd5137b003349a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58458c144b2ee850510dcf8117d6cdcf') in 0.054368 seconds
+  Import took 0.058909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000883 seconds.
+  path: Assets/StarNestSkybox/Materials/Extras/HighQuality.mat
+  artifactKey: Guid(d5095726ec74ffd449d1891dd1298bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Extras/HighQuality.mat using Guid(d5095726ec74ffd449d1891dd1298bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab7f76a6e9710485e147c374a1c10c7') in 0.040213 seconds
+  Import took 0.045153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/StarNestSkybox/Materials/Extras/CrazyFractal_Hueshift.mat
+  artifactKey: Guid(b66e810baf1f5aa4ba70f3b98d4d0658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Extras/CrazyFractal_Hueshift.mat using Guid(b66e810baf1f5aa4ba70f3b98d4d0658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f3dcaa2bffd8c063f0a7df76102149') in 0.043362 seconds
+  Import took 0.048024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Green2_Mask2.mat
+  artifactKey: Guid(3eb74276b8627354281c6c7437194739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Green2_Mask2.mat using Guid(3eb74276b8627354281c6c7437194739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fc55ea40265ac78f09535ffe7293917') in 0.040325 seconds
+  Import took 0.044751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/StarNestSkybox/Materials/Resources/Green1_Hueshift.mat
+  artifactKey: Guid(d23ba7649688a4345a5cbba83c441e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Resources/Green1_Hueshift.mat using Guid(d23ba7649688a4345a5cbba83c441e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4351f4b7ea7ff87918a7993ada3e0a9d') in 0.042149 seconds
+  Import took 0.047209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/StarNestSkybox/Materials/Extras/HighQuality_Scroll.mat
+  artifactKey: Guid(8f59164262fa5d944ac20a3e0f7f2b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Extras/HighQuality_Scroll.mat using Guid(8f59164262fa5d944ac20a3e0f7f2b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6dd655a5018bfb74630bcf013926df2') in 0.042100 seconds
+  Import took 0.047067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/SpaceFighter/Art Assets/Materials/EngineTrail.mat
+  artifactKey: Guid(a85f73dc29058a149896af96e799222a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/Materials/EngineTrail.mat using Guid(a85f73dc29058a149896af96e799222a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6af6549214daa5192640a6676f4a61a2') in 0.047187 seconds
+  Import took 0.051718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.173368 seconds.
+  path: Assets/StarNestSkybox/Materials/2dMat.mat
+  artifactKey: Guid(13b1d152166ae9d4bb88f712c9ab2322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/2dMat.mat using Guid(13b1d152166ae9d4bb88f712c9ab2322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a8d2b52dfbccf9bff67a2de9361045') in 0.035622 seconds
+  Import took 0.041704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/StarNestSkybox/Materials/Extras/CrazyFractal3.mat
+  artifactKey: Guid(24991cb04aaa31749a260b04a328e6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Extras/CrazyFractal3.mat using Guid(24991cb04aaa31749a260b04a328e6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b491d88d6d4d04d317b2054683e8b0') in 0.036943 seconds
+  Import took 0.041283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/StarNestSkybox/Materials/Extras/CrazyFractal2.mat
+  artifactKey: Guid(840665681a4c4ff4c8d83ec1202d53e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Extras/CrazyFractal2.mat using Guid(840665681a4c4ff4c8d83ec1202d53e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af806c942526398163db09fcb8d1c39') in 0.040766 seconds
+  Import took 0.045367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/SpaceFighter/Art Assets/Materials/cannonmedium_fbx-none__cannon.png.001.mat
+  artifactKey: Guid(3fc3c8df8288d0d4899c29ff92995669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/Materials/cannonmedium_fbx-none__cannon.png.001.mat using Guid(3fc3c8df8288d0d4899c29ff92995669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518a41e56264213ff96efed8bb2a8a86') in 0.049887 seconds
+  Import took 0.054158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/SpaceFighter/Art Assets/Materials/CannonLow.mat
+  artifactKey: Guid(0729882b919dfff48809c50b7db75405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/Materials/CannonLow.mat using Guid(0729882b919dfff48809c50b7db75405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '058def5352d44897f1a24d971b469c20') in 0.045448 seconds
+  Import took 0.050702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/StarNestSkybox/Materials/Extras/CrazyFractal.mat
+  artifactKey: Guid(f752ab20d3c14684881c3ff0f87c8c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials/Extras/CrazyFractal.mat using Guid(f752ab20d3c14684881c3ff0f87c8c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e109af9392844a100abb38f45b1683') in 0.047180 seconds
+  Import took 0.053674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/SpaceFighter/Art Assets/Materials/CannonMedium.mat
+  artifactKey: Guid(e5f63a9ff03f14d4e8c5df76da2d0721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets/Materials/CannonMedium.mat using Guid(e5f63a9ff03f14d4e8c5df76da2d0721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c9bbf4c7528c64c7fda15b162bb5d8') in 0.037958 seconds
+  Import took 0.042042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 433.837122 seconds.
+  path: Assets/Materials/New Material 4.mat
+  artifactKey: Guid(f46e84f9b804cf84a9ad4e37096ab23d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 4.mat using Guid(f46e84f9b804cf84a9ad4e37096ab23d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d93000b4606cd328ed3eec39196c047') in 0.055129 seconds
+  Import took 0.068117 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002286 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.045 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 4.909700 ms (FindLiveObjects: 0.352700 ms CreateObjectMapping: 0.170100 ms MarkObjects: 4.340500 ms  DeleteObjects: 0.043600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.645 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.2 MB.
+System memory in use after: 62.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 3.418200 ms (FindLiveObjects: 0.395800 ms CreateObjectMapping: 0.126700 ms MarkObjects: 2.867200 ms  DeleteObjects: 0.026300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001435 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.752 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.2 MB.
+System memory in use after: 62.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1635.
+Total: 3.461300 ms (FindLiveObjects: 0.358900 ms CreateObjectMapping: 0.115700 ms MarkObjects: 2.748400 ms  DeleteObjects: 0.236300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001398 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.456 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.3 MB.
+System memory in use after: 62.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1637.
+Total: 2.762700 ms (FindLiveObjects: 0.287200 ms CreateObjectMapping: 0.072900 ms MarkObjects: 2.372200 ms  DeleteObjects: 0.028300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1293.194567 seconds.
+  path: Assets/Prefabs/Main Camera Variant.prefab
+  artifactKey: Guid(174ac97d1d21c614da7f5a753b1671d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Main Camera Variant.prefab using Guid(174ac97d1d21c614da7f5a753b1671d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10fd777091117832e901e0ffef02d306') in 0.163809 seconds
+  Import took 0.169660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.066435 seconds.
+  path: Assets/StarNestSkybox/Materials
+  artifactKey: Guid(22ea6573ac640814bbd6486d39aacae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Materials using Guid(22ea6573ac640814bbd6486d39aacae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6213d26ae794895df690048c6e0acf73') in 0.005774 seconds
+  Import took 0.010448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.395015 seconds.
+  path: Assets/StarNestSkybox/Scripts
+  artifactKey: Guid(01e86517158b74a4cacb5a3cfcc0f05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Scripts using Guid(01e86517158b74a4cacb5a3cfcc0f05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '816609dc12623901ed8976040007caaa') in 0.017832 seconds
+  Import took 0.023453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.755661 seconds.
+  path: Assets/StarNestSkybox/Textures
+  artifactKey: Guid(9a56de9d18338ae4d9e26535884e89b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Textures using Guid(9a56de9d18338ae4d9e26535884e89b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bd87a512cf2ea0c4e3891a393cef37f') in 0.013340 seconds
+  Import took 0.017668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.349964 seconds.
+  path: Assets/StarNestSkybox/Textures/BasicMask.png
+  artifactKey: Guid(658ed583f61f2644ba547508333671f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Textures/BasicMask.png using Guid(658ed583f61f2644ba547508333671f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da3cb9bbab79d988651214057564f2e') in 0.048146 seconds
+  Import took 0.052611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000542 seconds.
+  path: Assets/StarNestSkybox/Textures/StupidMask.png
+  artifactKey: Guid(10c24644de30e0547af2c965a70dd40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/Textures/StupidMask.png using Guid(10c24644de30e0547af2c965a70dd40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2c63561fcb28c66d6a498ac8cd540f') in 0.032546 seconds
+  Import took 0.036478 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001417 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.433 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.3 MB.
+System memory in use after: 62.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1641.
+Total: 2.780300 ms (FindLiveObjects: 0.300900 ms CreateObjectMapping: 0.056000 ms MarkObjects: 2.394700 ms  DeleteObjects: 0.026800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001389 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.564 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.3 MB.
+System memory in use after: 62.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 3.516000 ms (FindLiveObjects: 0.269400 ms CreateObjectMapping: 0.066100 ms MarkObjects: 3.112200 ms  DeleteObjects: 0.065500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001779 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.513 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.3 MB.
+System memory in use after: 62.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1645.
+Total: 2.628900 ms (FindLiveObjects: 0.242900 ms CreateObjectMapping: 0.063300 ms MarkObjects: 2.281500 ms  DeleteObjects: 0.025600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.163201 seconds.
+  path: Assets/Scenes/warp.unity
+  artifactKey: Guid(f0237abb8e149c9489480be76f5e9e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/warp.unity using Guid(f0237abb8e149c9489480be76f5e9e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e360e70cc94d97cbe660fe1b216ca71d') in 0.035447 seconds
+  Import took 0.040022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.725601 seconds.
+  path: Assets/Scenes/Particle System.prefab
+  artifactKey: Guid(42f83be09162b89488dd500cb87fd3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Particle System.prefab using Guid(42f83be09162b89488dd500cb87fd3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490eb65d9933fc313d21ec3eb69fa0bc') in 0.057216 seconds
+  Import took 0.063979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003107 seconds.
+  path: Assets/Scenes/Particle System.prefab
+  artifactKey: Guid(42f83be09162b89488dd500cb87fd3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Particle System.prefab using Guid(42f83be09162b89488dd500cb87fd3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490eb65d9933fc313d21ec3eb69fa0bc') in 0.011244 seconds
+  Import took 0.016501 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012444 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.593 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.3 MB.
+System memory in use after: 62.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Total: 3.203900 ms (FindLiveObjects: 0.247500 ms CreateObjectMapping: 0.179800 ms MarkObjects: 2.748200 ms  DeleteObjects: 0.026200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 788.251880 seconds.
+  path: Assets/Prefabs/Warp.prefab
+  artifactKey: Guid(42f83be09162b89488dd500cb87fd3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Warp.prefab using Guid(42f83be09162b89488dd500cb87fd3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3712976391a1f417704aad52c36edc91') in 0.076794 seconds
+  Import took 0.082215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.214755 seconds.
+  path: Assets/Prefabs/WarpEffect.prefab
+  artifactKey: Guid(42f83be09162b89488dd500cb87fd3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/WarpEffect.prefab using Guid(42f83be09162b89488dd500cb87fd3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d6196f253c6df45b9bd704fe96cc38') in 0.019842 seconds
+  Import took 0.024349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.946469 seconds.
+  path: Assets/SpaceFighter/Art Assets
+  artifactKey: Guid(cfcaba29274215246a151745603c8137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceFighter/Art Assets using Guid(cfcaba29274215246a151745603c8137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da1015230d5772962b065d614a46bf1f') in 0.017664 seconds
+  Import took 0.024469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.093977 seconds.
+  path: Assets/StarNestSkybox/StarNestSkybox.shader
+  artifactKey: Guid(100c9f6ec37b01644b7a5f7feac179d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/StarNestSkybox.shader using Guid(100c9f6ec37b01644b7a5f7feac179d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8a6ce6df0120af5e087c2f00df09eee') in 0.017343 seconds
+  Import took 0.021039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.218693 seconds.
+  path: Assets/StarNestSkybox/StarNestSkybox_HSV.shader
+  artifactKey: Guid(27dad6e6a6c1988439ea192ad22a1a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/StarNestSkybox_HSV.shader using Guid(27dad6e6a6c1988439ea192ad22a1a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e29f762ab6786b86c300e98d3e4b5872') in 0.015686 seconds
+  Import took 0.020703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003291 seconds.
+  path: Assets/StarNestSkybox/StarNestSkybox_HSV.shader
+  artifactKey: Guid(27dad6e6a6c1988439ea192ad22a1a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarNestSkybox/StarNestSkybox_HSV.shader using Guid(27dad6e6a6c1988439ea192ad22a1a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e29f762ab6786b86c300e98d3e4b5872') in 0.011990 seconds
+  Import took 0.017519 seconds .
+
