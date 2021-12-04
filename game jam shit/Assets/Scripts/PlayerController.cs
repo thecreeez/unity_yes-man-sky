@@ -40,6 +40,15 @@ public class PlayerController : MonoBehaviour
 
         targetPosition = Vector3.right * (lineDistance * pos[0] - 1) + Vector3.up * (lineDistance * pos[1]);
 
-        transform.position = targetPosition;
+        if (transform.position == targetPosition)
+            return;
+
+        Vector3 diff = targetPosition - transform.position;
+        Vector3 moveDir = diff.normalized * 25 * Time.deltaTime;
+
+        if (moveDir.sqrMagnitude < diff.sqrMagnitude)
+            controller.Move(moveDir);
+        else
+            controller.Move(diff);
     }
 }
