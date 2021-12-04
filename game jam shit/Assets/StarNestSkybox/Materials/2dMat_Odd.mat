@@ -24,20 +24,21 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Brightness: 0.5
+    - _Brightness: -3.2
+    - _CLAMPOUT: 0
     - _CamScroll: -831
-    - _Darkmatter: 221.4
-    - _Distfading: -73.7
-    - _Formuparam: 444
-    - _Iterations: 15
-    - _Saturation: 62
-    - _StepSize: -300
-    - _Tile: 850
-    - _Volsteps: 10
-    - _Zoom: 810.4
+    - _Darkmatter: 213.52
+    - _Distfading: -79.28
+    - _Formuparam: 459.9
+    - _Iterations: 6.8
+    - _Saturation: 68.4
+    - _StepSize: -301.4
+    - _Tile: 690.8
+    - _Volsteps: 28.3
+    - _Zoom: 3663.4
     m_Colors:
-    - _Center: {r: 1.15, g: 1, b: -0.02, a: 0}
+    - _Center: {r: 1.27, g: 1.61, b: 0.88, a: 0.51}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Rotation: {r: 51, g: 15, b: 11, a: 1}
-    - _Scroll: {r: 3, g: 5, b: 0.1, a: 0.1}
+    - _Scroll: {r: -0.48, g: 3.72, b: -1.97, a: -0.48}
   m_BuildTextureStacks: []
