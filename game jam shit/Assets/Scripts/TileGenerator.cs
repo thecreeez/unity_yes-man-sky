@@ -6,20 +6,26 @@ public class TileGenerator : MonoBehaviour
 {
 
     public GameObject[] tilePrefabs;
-    // Start is called before the first frame update
-    void Start()
+    public GameObject lastCreatedTile;
+
+    private void Start()
     {
-        SpawnTile(Random.Range(0,tilePrefabs.Length));
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (TileMover.instance.tiles.Count < 1)
+            SpawnTile(Random.Range(0, tilePrefabs.Length));
+
+        if (lastCreatedTile.transform.position.z <= transform.position.z - 20)
+            SpawnTile(Random.Range(0, tilePrefabs.Length));
     }
 
     private void SpawnTile(int tileIndex)
     {
-        Instantiate(tilePrefabs[tileIndex], transform.position, transform.rotation);
+        lastCreatedTile = Instantiate(tilePrefabs[tileIndex], transform.position + Vector3.down * 0.5f, transform.rotation);
+        TileMover.instance.tiles.Add(lastCreatedTile);
     }
 }
