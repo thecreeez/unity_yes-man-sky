@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     private CharacterController controller;
     private Vector3 dir;
     [SerializeField] private int speed;
-    [SerializeField] private int lineDistance;
+    [SerializeField] private float lineDistance;
 
     private int[] pos = new int[2];
 
@@ -38,7 +38,7 @@ public class PlayerController : MonoBehaviour
 
         Vector3 targetPosition = transform.position.z * transform.forward + transform.position.y * transform.up;
 
-        targetPosition = Vector3.right * (lineDistance * pos[0] - 1) + Vector3.up * (lineDistance * pos[1]);
+        targetPosition = Vector3.right * (lineDistance * pos[0] - 1) + Vector3.up * (lineDistance * 1.2f * pos[1]);
 
         if (transform.position == targetPosition)
             return;

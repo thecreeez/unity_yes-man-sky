@@ -25,7 +25,7 @@ public class TileGenerator : MonoBehaviour
 
     private void SpawnTile(int tileIndex)
     {
-        lastCreatedTile = Instantiate(tilePrefabs[tileIndex], transform.position + Vector3.down * 0.5f, transform.rotation);
+        lastCreatedTile = Instantiate(tilePrefabs[tileIndex], transform.position, transform.rotation);
         TileMover.instance.tiles.Add(lastCreatedTile);
     }
 }
