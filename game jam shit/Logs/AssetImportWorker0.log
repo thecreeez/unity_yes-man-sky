@@ -2658,3 +2658,11 @@ Received Import Request.
 Start importing Assets/Prefabs/tileMap.prefab using Guid(4b483c5dd66bef54199da371eaa6229b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874e4b2412a1952d64568460e1444e98') in 0.016586 seconds
   Import took 0.019793 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 82.207593 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8641d8c5ef44b38bada29220a174a5') in 0.023832 seconds
+  Import took 0.028750 seconds .
+
