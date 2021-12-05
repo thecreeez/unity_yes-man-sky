@@ -9,6 +9,8 @@ public class GameManager : MonoBehaviour
     [SerializeField]private float distanceReached = 0f;
     [SerializeField][Range(0f,3f)]private float gameSpeed = 1f;
 
+    private bool isPlaying = true;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,5 +31,21 @@ public class GameManager : MonoBehaviour
     public float getGameSpeed()
     {
         return gameSpeed;
+    }
+
+    public void win()
+    {
+        isPlaying = false;
+    }
+
+    public void lose()
+    {
+        gameSpeed = 0f;
+        isPlaying = false;
+    }
+
+    public bool getIsPlaying()
+    {
+        return isPlaying;
     }
 }

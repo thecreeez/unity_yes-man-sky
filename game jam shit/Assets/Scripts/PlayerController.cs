@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     private Vector3 dir;
     [SerializeField] private int speed;
     [SerializeField] private float lineDistance;
+    [SerializeField] private AnimationController animationController;
 
     private int[] pos = new int[2];
 
@@ -24,17 +25,34 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if (!GameManager.instance.getIsPlaying())
+            return;
+
         if (SwipeController.swipeRight && pos[0] < 2)
+        {
             pos[0]++;
+            animationController.RotateByMove(new Vector3(0f,0f,40f));
+        } 
 
         if (SwipeController.swipeLeft && pos[0] > 0)
+        {
             pos[0]--;
+            animationController.RotateByMove(new Vector3(0f, 0f, -40f));
+        }
 
         if (SwipeController.swipeUp && pos[1] < 1)
+        {
             pos[1]++;
+            animationController.RotateByMove(new Vector3(-30f, 0f, 0f));
+        }
 
         if (SwipeController.swipeDown && pos[1] > 0)
+        {
             pos[1]--;
+            animationController.RotateByMove(new Vector3(20f, 0f, 0f));
+        }
+        
 
         Vector3 targetPosition = transform.position.z * transform.forward + transform.position.y * transform.up;
 
@@ -50,11 +68,36 @@ public class PlayerController : MonoBehaviour
             controller.Move(moveDir);
         else
             controller.Move(diff);
+
+
     }
 
     private void OnCollisionEnter(Collision collision)
     {
         Debug.Log("collision");
         //Destroy(collision.gameObject);
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        switch (other.gameObject.tag)
+        {
+            case "obstacle":
+                //Destroy(other.gameObject);
+                GameManager.instance.lose();
+                break;
+            case "fuel":
+                Debug.Log("Топливо");
+                break;
+            case "coin":
+                Debug.Log("Монетка");
+                break;
+            case "booster":
+                Debug.Log("Ускоритель");
+                break;
+            case "shield":
+                Debug.Log("Щит");
+                break;
+        }
     }
 }
