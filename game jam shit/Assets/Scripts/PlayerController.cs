@@ -51,10 +51,4 @@ public class PlayerController : MonoBehaviour
         else
             controller.Move(diff);
     }
-
-    private void OnCollisionEnter(Collision collision)
-    {
-        Debug.Log("collision");
-        //Destroy(collision.gameObject);
-    }
 }

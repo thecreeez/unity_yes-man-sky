@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
     public static GameManager instance = null;
 
     [SerializeField]private float distanceReached = 0f;
-    [SerializeField][Range(0f,3f)]private float gameSpeed = 1f;
+    [SerializeField][Range(0f,1f)]private float gameSpeed = 1f;
 
     // Start is called before the first frame update
     void Start()
