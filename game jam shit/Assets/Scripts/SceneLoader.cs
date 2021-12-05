@@ -1,11 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
-public class UIManager : MonoBehaviour
+public class SceneLoader : MonoBehaviour
 {
-    [SerializeField] Text distanceText;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,6 +14,11 @@ public class UIManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        distanceText.text = "dist:" + Mathf.Round(GameManager.instance.getDistanceReached());
+        
+    }
+    
+    public void SceneLoad(int index)
+    {
+        SceneManager.LoadScene(index);
     }
 }

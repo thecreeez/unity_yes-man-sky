@@ -85,10 +85,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4025164511153751545, guid: 92b7d85b478d3ed45b11d0449233a950, type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 4877179090235111838, guid: 92b7d85b478d3ed45b11d0449233a950, type: 3}
       propertyPath: m_Name
       value: SmallAsteroid (2)
