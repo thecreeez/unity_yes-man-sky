@@ -39,4 +39,9 @@ public class TileMover : MonoBehaviour
 
         instance.toRemove.Clear();
     }
+
+    public void clear()
+    {
+        tiles.Clear();
+    }
 }

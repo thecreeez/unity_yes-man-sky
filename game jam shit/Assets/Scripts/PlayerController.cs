@@ -11,6 +11,11 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float lineDistance;
     [SerializeField] private AnimationController animationController;
 
+    [SerializeField] private GameObject explosionPrefab;
+    [SerializeField] private Transform explosionPlace;
+
+    [SerializeField] private GameObject model;
+
     private int[] pos = new int[2];
 
     // Start is called before the first frame update
@@ -83,20 +88,23 @@ public class PlayerController : MonoBehaviour
         switch (other.gameObject.tag)
         {
             case "obstacle":
-                //Destroy(other.gameObject);
+                var explosionParticle = Instantiate(explosionPrefab, new Vector3(explosionPlace.position.x,explosionPlace.position.y,explosionPlace.position.z), Quaternion.identity);
+                explosionParticle.GetComponent<ParticleSystem>().Play();
+                EffectManager.instance.stopEffects();
+                Destroy(other.gameObject);
+                Destroy(gameObject);
                 GameManager.instance.lose();
                 break;
-            case "fuel":
-                Debug.Log("�������");
+            case "gas":
+                GameManager.instance.useGas();
+                Destroy(other.gameObject);
                 break;
             case "coin":
-                Debug.Log("�������");
+                GameManager.instance.useCoin();
+                Destroy(other.gameObject);
                 break;
             case "booster":
-                Debug.Log("����������");
-                break;
-            case "shield":
-                Debug.Log("���");
+                Destroy(other.gameObject);
                 break;
         };
     }

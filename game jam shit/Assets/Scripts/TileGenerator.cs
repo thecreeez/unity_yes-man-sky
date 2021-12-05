@@ -19,7 +19,7 @@ public class TileGenerator : MonoBehaviour
         if (TileMover.instance.tiles.Count < 1)
             SpawnTile(Random.Range(0, tilePrefabs.Length));
 
-        if (lastCreatedTile.transform.position.z <= transform.position.z - 20)
+        if (lastCreatedTile.transform.position.z <= transform.position.z - 50)
             SpawnTile(Random.Range(0, tilePrefabs.Length));
     }
 
