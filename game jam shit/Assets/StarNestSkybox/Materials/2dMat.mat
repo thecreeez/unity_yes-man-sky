@@ -13,7 +13,7 @@ Material:
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 1000
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -24,17 +24,16 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Brightness: 31.5
-    - _CLAMPOUT: 0
+    - _Brightness: 2
     - _CamScroll: 0
     - _Darkmatter: 25
-    - _Distfading: 66.6
-    - _Formuparam: 545.52
-    - _Iterations: 30
-    - _Saturation: 63.7
-    - _StepSize: 114.32
-    - _Tile: 808.1
-    - _Volsteps: 37
+    - _Distfading: 68
+    - _Formuparam: 530
+    - _Iterations: 17
+    - _Saturation: 85
+    - _StepSize: 130
+    - _Tile: 700
+    - _Volsteps: 20
     - _Zoom: 800
     m_Colors:
     - _Center: {r: 1, g: 0.3, b: 0.5, a: 0}

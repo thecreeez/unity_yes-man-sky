@@ -85,10 +85,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4025164511153751545, guid: 92b7d85b478d3ed45b11d0449233a950, type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 4877179090235111838, guid: 92b7d85b478d3ed45b11d0449233a950, type: 3}
       propertyPath: m_Name
       value: SmallAsteroid (2)
@@ -175,15 +171,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1384755601626031513, guid: 92b7d85b478d3ed45b11d0449233a950, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1
+      value: 0.13
       objectReference: {fileID: 0}
     - target: {fileID: 1384755601626031513, guid: 92b7d85b478d3ed45b11d0449233a950, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.8
       objectReference: {fileID: 0}
     - target: {fileID: 1384755601626031513, guid: 92b7d85b478d3ed45b11d0449233a950, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4
+      value: 1.72
       objectReference: {fileID: 0}
     - target: {fileID: 1384755601626031513, guid: 92b7d85b478d3ed45b11d0449233a950, type: 3}
       propertyPath: m_LocalRotation.w
@@ -245,7 +241,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3983593028330465453, guid: 11d0959867d526a4db8d7dfb87fc46a2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: 3983593028330465453, guid: 11d0959867d526a4db8d7dfb87fc46a2, type: 3}
       propertyPath: m_LocalPosition.z
