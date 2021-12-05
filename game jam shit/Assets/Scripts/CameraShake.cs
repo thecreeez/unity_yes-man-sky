@@ -38,7 +38,8 @@ public class CameraShake : MonoBehaviour
 
 	void Update()
 	{
-		Shake(Time.deltaTime + 1, 0.025f);
+		if (GameManager.instance.getGameSpeed() > 0 && GameManager.instance.getIsPlaying())
+			Shake(Time.deltaTime + 1, 0.025f);
 
 		if (elapsed < i_Duration)
 		{
