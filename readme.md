@@ -4,4 +4,4 @@
 
 Использованы бесплатные ассеты.
 
-[APK](https://github.com/thecreeez/game-jam-shit/blob/main/game%20jam%20shit/build.apk)
+[APK](https://github.com/thecreeez/game-jam-shit/blob/main/build.apk)
