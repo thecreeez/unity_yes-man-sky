@@ -1,0 +1,183 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 22000.1574; Version 2009; 64bit' Language: 'ru' Physical Memory: 15789 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/coding/unity/game jam shit man/game-jam-shit/game jam shit
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59451
+Successfully changed project path to: C:/coding/unity/game jam shit man/game-jam-shit/game jam shit
+C:/coding/unity/game jam shit man/game-jam-shit/game jam shit
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 54.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/coding/unity/game jam shit man/game-jam-shit/game jam shit/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 with Max-Q Design (ID=0x1f12)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.15.1278
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56488
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001871 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 54.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.180 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001059 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.021 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1299 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.0 MB.
+System memory in use after: 144.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1759.
+Total: 3.428200 ms (FindLiveObjects: 0.347000 ms CreateObjectMapping: 0.076300 ms MarkObjects: 2.865600 ms  DeleteObjects: 0.136500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/tileMap.prefab
+  artifactKey: Guid(4b483c5dd66bef54199da371eaa6229b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tileMap.prefab using Guid(4b483c5dd66bef54199da371eaa6229b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af9f850bf201c9077a356af57cf1130') in 0.153197 seconds
+  Import took 0.157919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Prefabs/tileMap3.prefab
+  artifactKey: Guid(b2c1cab40d1efb74da015f516bedcacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tileMap3.prefab using Guid(b2c1cab40d1efb74da015f516bedcacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad00f3f4f60b5373928051c328629cb8') in 0.034223 seconds
+  Import took 0.037684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Prefabs/tileMap1.prefab
+  artifactKey: Guid(3586728d54fd5ed4282c74443b5428c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tileMap1.prefab using Guid(3586728d54fd5ed4282c74443b5428c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01589360b9bf79c0a1187564adfd0382') in 0.034328 seconds
+  Import took 0.037957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Prefabs/testBonuses.prefab
+  artifactKey: Guid(bba906f7645217f4bb5cc094c58e2a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/testBonuses.prefab using Guid(bba906f7645217f4bb5cc094c58e2a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6df07c2c1d9d151ab32de6398ca3739') in 0.041180 seconds
+  Import took 0.044853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Prefabs/tileMap2.prefab
+  artifactKey: Guid(5bb9395c03bd1b24bae05068f740faba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tileMap2.prefab using Guid(5bb9395c03bd1b24bae05068f740faba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd78ff8c5cf2b35cf1c1f9b8ee680d59c') in 0.027720 seconds
+  Import took 0.031062 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001015 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.948 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395204) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1277 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 145.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1769.
+Total: 3.012500 ms (FindLiveObjects: 0.278400 ms CreateObjectMapping: 0.083300 ms MarkObjects: 2.570200 ms  DeleteObjects: 0.078500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.4 MB.
+System memory in use after: 120.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1769.
+Total: 3.278200 ms (FindLiveObjects: 0.462100 ms CreateObjectMapping: 0.046700 ms MarkObjects: 2.684300 ms  DeleteObjects: 0.081300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 420.928592 seconds.
+  path: Assets/Epic Toon FX/Materials/Basics/cloud_2x2_default_AB.mat
+  artifactKey: Guid(d386c5d9fb941e845b73fe6da5491ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Materials/Basics/cloud_2x2_default_AB.mat using Guid(d386c5d9fb941e845b73fe6da5491ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64838d4d44cae7f1b2b5561e1d1d30e7') in 0.091869 seconds
+  Import took 0.097189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.179215 seconds.
+  path: Assets/Epic Toon FX/Materials/Basics/glow1_ADD.mat
+  artifactKey: Guid(e653836c30661fe419b8992e230ca189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Materials/Basics/glow1_ADD.mat using Guid(e653836c30661fe419b8992e230ca189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36da13387c0e1d6efce2eb580cb07fa7') in 0.024573 seconds
+  Import took 0.028562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.141483 seconds.
+  path: Assets/Prefabs/explosion.prefab
+  artifactKey: Guid(2549c17aeb19ba0418960b10caac93c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/explosion.prefab using Guid(2549c17aeb19ba0418960b10caac93c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6cef0526b4652818134a1828b01a948') in 0.020897 seconds
+  Import took 0.025534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011035 seconds.
+  path: Assets/Prefabs/explosion.prefab
+  artifactKey: Guid(2549c17aeb19ba0418960b10caac93c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/explosion.prefab using Guid(2549c17aeb19ba0418960b10caac93c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6cef0526b4652818134a1828b01a948') in 0.005454 seconds
+  Import took 0.009249 seconds .
+

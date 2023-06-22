@@ -7,24 +7,27 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance = null;
 
-    [SerializeField]private float distanceReached = 0f;
-    [SerializeField][Range(0f,4f)]private float gameSpeed = 1f;
-    [SerializeField] private float fuelConsumption = 0.1f;
+    [SerializeField]private float distanceReached;
+    [SerializeField][Range(0f,4f)]private float gameSpeed;
+    [SerializeField] private float fuelConsumption;
 
     [SerializeField] private AudioSource vzhhhhhhhh;
 
-    private float maxFuel = 400f;
-    private float fuel = 400f;
-    private float fuelInGas = 50f;
+    [SerializeField] private float maxFuel = 400f;
+    [SerializeField] private float fuel = 400f;
+    [SerializeField] private float fuelInGas = 50f;
 
-    private bool isPlaying = true;
+    [SerializeField] private bool isPlaying = true;
 
-    private int coins = 0;
+    [SerializeField] private int coins = 0;
 
     // Start is called before the first frame update
     void Start()
-    {
-        instance = this;
+    {   
+        if (instance == null)
+            instance = this;
+        else
+            Destroy(gameObject);
 
         if (!PlayerPrefs.HasKey("coins"))
             PlayerPrefs.SetInt("coins", 0);
@@ -71,6 +74,11 @@ public class GameManager : MonoBehaviour
         return distanceReached;
     }
 
+    public void setGameSpeed(float speed)
+    {
+        gameSpeed = speed;
+    }
+
     public float getGameSpeed()
     {
         return gameSpeed;
@@ -85,6 +93,11 @@ public class GameManager : MonoBehaviour
     {
         return maxFuel;
     } 
+
+    public float getFuelInPercents()
+    {
+        return fuel / maxFuel;
+    }
 
     public int getCoins()
     {

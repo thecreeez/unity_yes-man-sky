@@ -23,7 +23,8 @@ public class UImanager : MonoBehaviour
     {
         coins.text = "" + GameManager.instance.getCoins();
         distance.text = "" + Mathf.Round(GameManager.instance.getDistanceReached());
-        fuel.value = GameManager.instance.getFuel() / GameManager.instance.getMaxFuel();
+
+        fuel.value = GameManager.instance.getFuelInPercents();
 
         if (!GameManager.instance.getIsPlaying())
             losePanel.SetActive(true);

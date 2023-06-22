@@ -93,7 +93,6 @@ GameObject:
   - component: {fileID: 5253589922532287006}
   - component: {fileID: 5253589922532287007}
   - component: {fileID: 5253589922532286992}
-  - component: {fileID: 5253589922532286993}
   m_Layer: 5
   m_Name: restart
   m_TagString: Untagged
@@ -203,7 +202,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 5253589922532286993}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
         m_MethodName: RestartLevel
         m_Mode: 1
@@ -215,17 +214,3 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
---- !u!114 &5253589922532286993
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5253589922532286995}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f947d6eda43e1641b15013196bebd21, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  distanceReached: 0
-  gameSpeed: 1

@@ -14,6 +14,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private GameObject explosionPrefab;
     [SerializeField] private Transform explosionPlace;
 
+    [SerializeField] private BonusManager bonusManager;
+
     [SerializeField] private GameObject model;
 
     private int[] pos = new int[2];
@@ -22,6 +24,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         controller = GetComponent<CharacterController>();
+        bonusManager = GetComponent<BonusManager>();
 
         pos[0] = 1;
         pos[1] = 0;
@@ -46,7 +49,7 @@ public class PlayerController : MonoBehaviour
             animationController.RotateByMove(new Vector3(0f, 0f, -40f));
         }
 
-        if (SwipeController.swipeUp && pos[1] < 1)
+        if (SwipeController.swipeUp && pos[1] < 2)
         {
             pos[1]++;
             animationController.RotateByMove(new Vector3(-30f, 0f, 0f));
@@ -77,12 +80,6 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        Debug.Log("collision");
-        //Destroy(collision.gameObject);
-    }
-
     private void OnTriggerEnter(Collider other)
     {
         switch (other.gameObject.tag)
@@ -95,16 +92,8 @@ public class PlayerController : MonoBehaviour
                 Destroy(gameObject);
                 GameManager.instance.lose();
                 break;
-            case "gas":
-                GameManager.instance.useGas();
-                Destroy(other.gameObject);
-                break;
-            case "coin":
-                GameManager.instance.useCoin();
-                Destroy(other.gameObject);
-                break;
-            case "booster":
-                Destroy(other.gameObject);
+            default:
+                bonusManager.collect(other.gameObject);
                 break;
         };
     }
